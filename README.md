@@ -1,7 +1,7 @@
 berlin-shapes
 =============
 
-Berliner Bezirke als KML und GeoJSON
+Berlin's boroughs ("Bezirke") as KML and GeoJSON
 
 The Statistical Office of Berlin and Brandenburg provides kml shapefiles of a number of administrative areas in Berlin, such as the localities within each borough. As I could not find the borders of the boroughs themselves, I merged all the the localities, thus providing only the 12 boroughs. 
 
